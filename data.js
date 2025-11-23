@@ -21,7 +21,7 @@ const DATA = [
 
     // LISA P ET ZOE
     {
-        name: "Lisa",
+        name: "Pisa",
         birthday: "29/03/2003",
         buddy: "Zoé",
         costume: "Conrad et Jeremiah",
@@ -42,7 +42,7 @@ const DATA = [
 
     //DANIEL ET MATHILDE
     {
-        name: "Mathilde",
+        name: "Thilde",
         birthday: "30/11/2002",
         buddy: "Daniel Bachour",
         costume: "Elphaba&Glinda",
@@ -146,7 +146,7 @@ const DATA = [
 
     // VICTOR ET MATILDE B 
     {
-        name: "Mathilde",
+        name: "Math",
         birthday: "28/07/2002",
         buddy: "Victor Gounot",
         costume: "Barbie et Ken (je sais qui je veux voir en barbie et qui en ken)",
@@ -192,7 +192,7 @@ const DATA = [
 
     //LISA M VALENTINE
     {
-        name: "Lisa",
+        name: "Misa",
         birthday: "28/11/2002",
         buddy: "Valentine Eustache",
         costume: "Anna et Elsa",
@@ -220,7 +220,7 @@ const DATA = [
         costume: "Ratatouille (rémi et linguini)",
         costumeImage: "ratatouille-watching-recommendation-videoSixteenByNineJumbo1600.jpg.webp",
         paf: "un cubi de vin",
-        message: "souhait accompli, hâte de te voir"
+        message: "j'espère que tu trouves ca rigolo"
     },
 
     {
