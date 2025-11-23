@@ -277,6 +277,25 @@ const DATA = [
     },
 
 
+    {
+        name: "Léa",
+        birthday: "05/05/2003",
+        buddy: "Vadim Gisserot",
+        costume: "Peter Pan et la fée Clochette",
+        costumeImage: "peter.jpeg",
+        paf: "bières c'est cool!!! et sopalin stp (nn je rigole)",
+        message: "trop contente que tu viennes léa !! (c'est la méthode coué)"
+    },
+
+    {
+        name: "Vadim",
+        birthday: "12/12/2002",
+        buddy: "Léa Milder",
+        costume: "Peter Pan et la fée Clochette",
+        costumeImage: "peter.jpeg",
+        paf: "honnêtement? je te fais confiance (t'es ultra VIP) (alcool de tous genres sont acceptés)",
+        message: "je suis tellement ravie d'avoir l'occasion d'être copropriétaire du vésinet avec toi quand axelle va comater"
+    },
 
 
     //LEA
