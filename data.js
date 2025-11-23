@@ -5,7 +5,7 @@ const DATA = [
         birthday: "19/11/2003",
         buddy: "Axelle",
         costume: "Elsa et Anna",
-        costumeImage: "images/Dupondt.png",
+        costumeImage: "Dupondt.png",
         message: "coucou vico !"
     },
 
